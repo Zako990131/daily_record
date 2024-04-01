@@ -1,4 +1,4 @@
-# 資策會-雲端網路與資安工程師//上課紀錄
+# 資策會-雲端網路與資安工程師上課紀錄
 
 <!-- Ctrl shift V can call preview -->
 <!-- Ctrl + / can cmd comment zone -->
