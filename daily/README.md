@@ -14,7 +14,9 @@
 
 好了，這就是D1了，努力每天更新新故事，讓自己多多練習說故事~
 
-![D1上課畫面](https://www.facebook.com/photo/?fbid=2621040671397982&set=a.2621040638064652&__cft__[0]=AZXRdgleHzRP9KR-8qUh9zLKxy2vO06mWe2607qcqgxy2UNJpk7keZWJgZjbzlr6q7tLhRsHn0ZtJzmflDIBFMsrwLyJ-XS7WrkODqKHpik11iEl2NTFQ4HunU1aAWDrLjhg4ceGmpEmAiFeilGPkE8qFRgtwAXD78EpqViTqjivXCykkHUcYHZtmlQ0E0ngsNQ&__tn__=EH-R)
+
+![D1上課照片](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/430333988_2621040831397966_2027901905943598200_n.jpg?stp=dst-jpg_p843x403&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kZcQ88WKXvgAX_qNCvf&_nc_ht=scontent.ftpe8-2.fna&oh=00_AfDHPE14VevjEaUDHpalmx0o5n99rxe2B4Iq7Wwf87lJyQ&oe=66106FFE)
+
 
 
 ## ***2024/3/19***
@@ -30,8 +32,66 @@
 
 後話...：在上課地點附近的健康餐盒，排隊的人數多到一個，令人不想去浪費時間，不如隨便吃一個也好😂，不過這附近也真是美食沙漠，都快要長駐超商了。
 
+![D2上課照片](https://scontent.ftpe8-2.fna.fbcdn.net/v/t39.30808-6/432084289_2621671278001588_5480384991354275333_n.jpg?stp=cp6_dst-jpg_s1080x2048&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dOrOtxQ4ZqUAX_pv_GR&_nc_ht=scontent.ftpe8-2.fna&oh=00_AfCv600ctKxrwwMBl9XwukWGcAMAZchoGcr8DQMC2_GLFA&oe=66105A17)
+
 
 ## ***2024/3/20***
 
+ 
 
 #### <**資策會課程 D3**>
+
+今天的課程算是又銜接到了我大學學過的內容，只不過稍嫌陌生，不確定是太久沒唸還是當初沒有講這麼多，章節的節奏滿快的，畢竟要在五個月內，速成一個大學所學的的內容，也是不容易。
+
+尤其是對於非本科的，不曉得能否趕得上，對於我們這些本科的，可能還稍有餘韻，這幾天早起的不適應，仍在持續著，上課斷線的機率跟怠惰感徒增，所以果斷就決定中午不吃飯，好好睡到下午的課程開始，讓自己能夠全神貫注，這樣也好，不然本科最後考的的非本科還爛就不好了，尤其面子掛不住啊！雖然實際上不怎麼在意就是了。
+
+現在每天就是猶如早九晚五一樣的感覺，不曉得往後的職場是否也是如此，總覺得年輕人活在這個時代也不容易，每代都有每代的課題要克服，只有同時代才能體會那樣的感受，老一輩或是再更年輕的，感受程度又不同了，但人生嘛，就是這樣令人期待，希望就能這樣每件事都順利的完成過去。
+
+後話...：
+原以為今天會懶惰或是累到不打這篇文章了，而且還是敷著面膜來打字的，因為最近看臉有點糙老，還得要保養一下，以免未來老的太快，也快要到身體開始退化的年紀了，希望不會在生日當天瞬間老化😂。
+附圖：老師的板書以及我的晚餐😆
+
+
+![D3上課畫面](https://scontent.ftpe8-1.fna.fbcdn.net/v/t39.30808-6/432090317_2622400444595338_3604088876100683830_n.jpg?stp=dst-jpg_p720x720&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=LVusn_NxflQAX97fs6H&_nc_ht=scontent.ftpe8-1.fna&oh=00_AfAsYt1FMtvel1IT_B7JO3mUF9RE9lFRnfni5hpCcn-Iwg&oe=66108001)
+
+![晚餐](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/432075173_2622400514595331_5444042063678284917_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XViqqLyM_4AAX91OmjW&_nc_ht=scontent.ftpe8-4.fna&oh=00_AfDo_8Sia5uY4fkffrbihoEANEDVy4VE06VozUt8woJMjg&oe=66107C8E)
+
+
+## ***2024/3/21***
+
+
+#### <**資策會課程 D4**>
+
+
+今天的內容是WS的實作，來的老師不太一樣，是一位中氣十足的阿伯，讓我想到他的外型很像我大學的資安課程教授，除了說話方式不太一樣之外，其餘的都很像，這老師全程用台語授課我都不會意外的感覺，非常合適也很好笑 哈。
+
+回歸正題，上課的內容就跟大學的VM機實作一樣，只是沒有什麼時間來給我們慢慢操作就是了，大量塞進腦袋裡，還有上網找一些管理主控台的各種解法，如果主管鎖住系統該如何解，一層層的去找方法解開，當然下有對策，上會有更多的政策，老師講了各種解法，當然最後還是會有解的，畢竟一定會有很皮的網管可以找到解法。
+
+在這樣的瘋狂知識轟炸下，結束了今天的實作課程，途中還有老師麥太大聲，吵到外面的情況，很好笑。結語：今天也歡樂的結束了。
+
+後話...：
+昨天懶到不想更新，所以在中午吃飯時，加緊趕出來了，每天更新上課的感想，算是今年不一樣的改變之一吧。讓我回憶起以前的事情，有機會也會寫出來吧🤔。
+
+![D4上課畫面](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/432152892_2623386637830052_5307600956189790264_n.jpg?stp=dst-jpg_p843x403&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qVhzKpMJdEsAX-atUTr&_nc_ht=scontent.ftpe8-4.fna&oh=00_AfAUsh2lNE6DoI66_c24ykGxI9eG-DPJ7S1sgq85ShjvWg&oe=66108786)
+
+
+
+## ***2024/3/22***
+
+
+#### <**資策會課程 D5**>
+
+今天又回歸到理論的內容，再實作網路連線的過程，丟封包那類的過程，上著上著又在再遇上大學的實作內容，也就是用思科的
+tracer，就是可以模擬，實際架設設備的情況。
+
+這讓我回憶起，大學時的咖啡教授，教這門課的回憶，那人厲害的幾乎什麼都去自學，咖啡師的證照還有網站架設什麼的，雖然我只記得這兩項，不過確實是蠻有記憶點，來回憶起那個時光，同時也可以複習以前所學的，更知道哪些可以用於就業上的背景知識。
+  
+第一週也就這樣快速結束了，要複習的東西很多，還有一堆沒看，之後也只會越來越忙碌吧😂
+
+後話...：
+可能是一週早起的關係，反饋到週六的我，想要懶惰一下，多睡了三小，要趕緊還債看書了zz...
+
+
+![D5上課畫面](https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/432056953_2624189581083091_7692022151451384560_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gIU4Tlbkc4kAX9tT2bG&_nc_ht=scontent.ftpe8-4.fna&oh=00_AfBIjfR_pPlC79qG_Iyu0pQsRrQVLcVXIv1glBjBLtaDUg&oe=66105A3E)
+
+
