@@ -14,6 +14,8 @@
 
 好了，這就是D1了，努力每天更新新故事，讓自己多多練習說故事~
 
+![D1上課畫面](https://www.facebook.com/photo/?fbid=2621040671397982&set=a.2621040638064652&__cft__[0]=AZXRdgleHzRP9KR-8qUh9zLKxy2vO06mWe2607qcqgxy2UNJpk7keZWJgZjbzlr6q7tLhRsHn0ZtJzmflDIBFMsrwLyJ-XS7WrkODqKHpik11iEl2NTFQ4HunU1aAWDrLjhg4ceGmpEmAiFeilGPkE8qFRgtwAXD78EpqViTqjivXCykkHUcYHZtmlQ0E0ngsNQ&__tn__=EH-R)
+
 
 ## ***2024/3/19***
 
@@ -27,3 +29,9 @@
 順便還在課堂上分神看一下台股的標的價格如何，之後應該會跟朋友做一個嘗試性的專案，還可以拿來當自己的作品之一，每件事都在計畫中，算是實現過去在迷茫時的願望，想要變得忙碌，這也許是吸引力法則的實踐吧🤔。
 
 後話...：在上課地點附近的健康餐盒，排隊的人數多到一個，令人不想去浪費時間，不如隨便吃一個也好😂，不過這附近也真是美食沙漠，都快要長駐超商了。
+
+
+## ***2024/3/20***
+
+
+#### <**資策會課程 D3**>
