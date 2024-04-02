@@ -41,3 +41,31 @@
 ## <第三週 週間紀錄>
 
 ##### .....wait...for....me
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<font color = hotpink>
+
+#  感謝區:  
+
+[1chooo哥](https://github.com/1chooo/1chooo.com) : Github基礎技術教學指導
+
+[Everyone]() : 每位與我對話的朋友們
