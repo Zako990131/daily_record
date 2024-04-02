@@ -1,5 +1,6 @@
 # 資策會課程資策會-雲端網路與資安工程師上課紀錄
 
+<!-- $ git clone ctrl + v SSh key -->
 <!-- $ git add xxxxxx.md -->
 <!-- $ git commit -m "tip: xxxxxx update" -->
 <!-- $ git push origin main -->
