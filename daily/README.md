@@ -164,15 +164,16 @@ tracer，就是可以模擬，實際架設設備的情況。
 #### <**資策會課程 D12**>
 
 
-.....更新中請稍後......
+.....更新中請稍後......    
+    
+  
 
+<font color = hotpink>
 
+#  感謝區:  
 
+[1chooo哥](https://github.com/1chooo/1chooo.com) : Github基礎技術教學指導
 
-*  感謝區:  
-
-    [1chooo哥](https://github.com/1chooo/1chooo.com) : Github 基礎技術教學指導
-
-    [Everyone]() : 每位與我對話的朋友們
+[Everyone]() : 每位與我對話的朋友們
 
 
