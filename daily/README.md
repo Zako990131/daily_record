@@ -1,4 +1,4 @@
-# 資策會-雲端網路與資安工程師上課紀錄
+# 資策會-雲端網路與資安工程師上課紀錄(更新至4/2)
 
 <!-- Ctrl shift V can call preview -->
 <!-- Ctrl + / can cmd comment zone -->
@@ -171,6 +171,7 @@ tracer，就是可以模擬，實際架設設備的情況。
 
 文後悄悄話...：最近把文章慢慢搬運到GitHub 上面，在幾個平台都有我的足跡，也算是新的一個里程了吧，同時在搬運時，也要再多學習一些新規則，以及以前所學的內容，算是把這些資訊更內化於自身，縱使我覺得不用特別記下，但是我仍會留下我走過的足跡，到時就算忘記了，仍可以再找回曾經的自己。
 
+![上課照片](https://scontent.ftpe7-2.fna.fbcdn.net/v/t39.30808-6/435137746_2631899156978800_1924087298880818214_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Iwu_iY70qCUAX_zmhh0&_nc_ht=scontent.ftpe7-2.fna&oh=00_AfC20CaPyhRryHufIQMN4P2ZPrm1ine_qSNuhePl5H_2Tg&oe=6613192B)
 
 
 ## ***2024/4/3***
