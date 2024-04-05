@@ -224,6 +224,8 @@ tracer，就是可以模擬，實際架設設備的情況。
 
 文後悄悄話...：手指頭附近的皮膚長了奇怪的顆粒，明天應該是會去皮膚科看看，給專業的來判斷也好，不然查谷歌每次都自己嚇自己也不太好😂
 
+![題目紀錄](https://scontent.ftpe7-3.fna.fbcdn.net/v/t39.30808-6/435211329_2633993086769407_3320025870524157332_n.jpg?stp=dst-jpg_p843x403&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=M5JUQgIDe6EAb5VQ8sN&_nc_ht=scontent.ftpe7-3.fna&oh=00_AfBiZpR3cj_a7uVe3LMT_0cnmSHjmIZLLbQciR9ANmZXfw&oe=66161FEB)
+
 ## ***2024/4/8***
 
 
