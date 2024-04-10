@@ -174,6 +174,7 @@ tracer，就是可以模擬，實際架設設備的情況。
 ![上課照片](https://scontent.ftpe7-2.fna.fbcdn.net/v/t39.30808-6/435137746_2631899156978800_1924087298880818214_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Iwu_iY70qCUAX_zmhh0&_nc_ht=scontent.ftpe7-2.fna&oh=00_AfC20CaPyhRryHufIQMN4P2ZPrm1ine_qSNuhePl5H_2Tg&oe=6613192B)
 
 
+
 ## ***2024/4/3***
 
 
