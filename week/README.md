@@ -1,4 +1,4 @@
-# 課程周間紀錄(更新至第四周)
+# 課程周間紀錄(更新至第五周)
 
 
 ## <第一週 週間紀錄>
@@ -72,6 +72,25 @@
 
 ![網路上的梗圖](https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/436210439_2640327632802619_4830234020499699089_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Qpc-79nS2fkAb5hQ_M-&_nc_ht=scontent.ftpe7-4.fna&oh=00_AfAo6DpESSA8WGKfOqWN4Ds1kXlkwjslwkGA_LD0yPdA3A&oe=6621CA0E)
 
+
+
+## <第五週 週間紀錄>
+
+
+這週的課程全都是圍繞在，各種虛擬設備上的環境模擬，無論是在設定VPN，還是在弄dhcp等，以及即將到來的證照練習，讓這一個禮拜過得異常飛快，很快就邁向第六週了，也是要面對好幾個考試的一週，感覺四月過完後，相對來說可以減少一些事情，讓我可以去弄之前開啟的新專案😂。
+  
+當然這週還有遇到一些問題，是要去改變的，像是狀態有時會不太集中，那我勢必要改變一下作息，以及選定一個時間段，只做一件很無趣的事情，磨練一下自己的耐心。
+
+好了，要開始新的一週了，期待新的事物，新的改變，期待更好的自己。
+  
+#文後悄悄話...：昨晚不小心在椅子上睡著後，現在早起，發現感覺還不錯，也許可以修正一個新的作息，從一個安靜無比的時間點起床，感受天亮的開始，這讓我回憶起了，小時候看日出的感覺...
+
+![我週末的快樂](https://scontent.ftpe7-1.fna.fbcdn.net/v/t39.30808-6/439082477_2645336685635047_511771777371775425_n.jpg?stp=dst-jpg_p843x403&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vn8-55odbjcAb5VeaCM&_nc_oc=AdgyB8sH5psXP_SdDfsaIPCm0tAO7L--pDq3ls4Sc2qCcMXc-kev5FwofwtM1Eoz-_nskq3AfVBaP-ZkSQXkcHu0&_nc_ht=scontent.ftpe7-1.fna&oh=00_AfDPmleMse-5y_N5CNTtFEH_BUFAB3hb89-1Tw1VQ24Y5w&oe=662C0DAB)
+
+
+## <第六週 週間紀錄>
+
+
 ##### .....wait...for....me
 
 
@@ -80,21 +99,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <font color = hotpink>
+
+
+
 
 #  感謝區:  
 
