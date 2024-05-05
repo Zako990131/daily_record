@@ -332,7 +332,7 @@ tracer，就是可以模擬，實際架設設備的情況。
 文後悄悄話...：這個月應該就是持續蹲低吸收的狀態，相對來說不是那麼自由舒適，但也是能在之中找到樂趣的。
 
 
-![今天找到的新手搖](https://scontent.ftpe7-2.fna.fbcdn.net/v/t39.30808-6/437983318_2641047429397306_5454105368021936550_n.jpg?stp=dst-jpg_p843x403&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uh1Yx6VDv1AAb6yvu5K&_nc_ht=scontent.ftpe7-2.fna&oh=00_AfBml_5Fl0-5X7pjO3PHJOXi2d6FiTwgID0SSZm_uOTamg&oe=6624610D)
+![今天找到的新手搖]()
 
 
 ## ***2024/4/16***
